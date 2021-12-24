@@ -1,8 +1,8 @@
-# Dracula for [Armorpaint](https://armorpaint.org/)
+# Dracula for [ArmorPaint](https://armorpaint.org/)
 
-> A dark theme for [Armorpaint](https://armorpaint.org/).
+> A dark theme for [ArmorPaint](https://armorpaint.org/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/77279943/147356915-7e1a8f6d-7a5b-4d97-88f6-4dbb56b7ea04.png)
 
 ## Install
 
