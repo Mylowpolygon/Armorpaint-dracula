@@ -19,3 +19,5 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 ## License
 
 [MIT License](./LICENSE)
+
+note- Due to a [bug](https://github.com/armory3d/armorpaint/issues/1223) with armorpaints theming system, this theme is not yet ready for use
