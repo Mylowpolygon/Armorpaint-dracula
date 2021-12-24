@@ -1,6 +1,6 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Armorpaint](https://armorpaint.org/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Armorpaint](https://armorpaint.org/).
 
 ![Screenshot](./screenshot.png)
 
@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Low Polygon Design](https://github.com/lowpolygon-design.png?size=100)](https://github.com/lowpolygon-design) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Low Polygon Design]() |
 
 ## License
 
